@@ -1,0 +1,21 @@
+  .fieldset{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 30px auto;
+  };
+
+  .button-choose-file{
+    color:rgb(58, 57, 57);
+    border-radius: 5px;
+    width: 220px;
+    display: block;
+  };
+
+  .btn-lable{
+    display: block;
+    border-radius: 1px solid grey;
+  };
+
+
+  
